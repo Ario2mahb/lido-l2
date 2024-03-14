@@ -3,7 +3,7 @@ name = "crytic-compile"
 version = "0.2.4"
 description = "Util to facilitate smart contracts compilation."
 category = "dev"
-optional = false
+optional = true
 python-versions = ">=3.6"
 
 [package.dependencies]
